@@ -1,0 +1,39 @@
+p{
+    font-size: 80px !important;
+    font-weight: bold;
+    height: 80px !important;
+    text-shadow: 25px !important;
+    margin-top: 20px !important;
+    margin-left: -200px !important;
+    font-style: inherit;
+    text-decoration: underline !important;
+    text-shadow: 10px 10px 10px #edb99163;
+
+}
+hr{
+  border: 2px solid hsl(191, 98%, 49%);
+}
+.head{
+  margin-top: 30px !important;
+  margin-left: -100px !important;
+}
+h4{
+  color: rgb(132, 3, 81);
+  font-family: essonnes-display;
+  font-style: italic;
+}
+.contact{
+  padding: 10px !important;
+}
+span{
+  background-color: rgb(146, 13, 86);
+}
+body{
+    background-color:rgba(6, 121, 123, 0.94);
+}
+@media (prefers-reduced-motion: no-preference) {
+    .pawar{
+      animation: App-logo-spin infinite 20s linear !important;
+    }
+  }
+  .top_section a:hover{color: rgb(247, 150, 4);}
